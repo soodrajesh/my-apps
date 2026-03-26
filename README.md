@@ -17,6 +17,7 @@ Deploy to Vercel and set a custom project name (e.g. `soodrajesh`) to get `soodr
 | India Tax Calculator | https://india-tax-calculator-one.vercel.app |
 | Investment Calculator | https://investment-calculator-india.vercel.app |
 | Subnet Calculator | https://simple-subnet-calculator.vercel.app |
+| Network Troubleshooting Toolkit | https://checkmyurl.vercel.app |
 
 ## Tech Stack
 
